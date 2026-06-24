@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Nang Ying Kyein Khay 👋
 
-<!--
-**y-0692/y-0692** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Engineer with 5 years of experience in Manual Testing and Test Automation.
 
-Here are some ideas to get you started:
+## Skills
+- Playwright
+- Postman
+- JMeter
+- SQL
+- API Testing
+- Regression Testing
+- Agile/Scrum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- UI Automation using Playwright
+- API Testing using Postman
+- Performance Testing using JMeter
+
+## Currently
+- Looking for QA Engineer / Test Automation Engineer opportunities
+- Learning and building automation testing projects
